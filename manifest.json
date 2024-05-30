@@ -2,8 +2,8 @@
     "name": "Lab8-Starter",
     "short_name": "Alex",
     "description": "recipes pop out app",
-    "start_url": "",
-    "display": "",
+    "start_url": "https://oasisalex.github.io/Lab8-Starter/",
+    "display": "fullscreen",
     "background_color": "black",
     "theme_color": "pink",
     "icons": [
